@@ -1,0 +1,27 @@
+{
+  "name": "WW1SimDataBase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazorzMcLazorz/WW1SimDataBase.git"
+  },
+  "keywords": [],
+  "author": "Nathaniel P Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RazorzMcLazorz/WW1SimDataBase/issues"
+  },
+  "homepage": "https://github.com/RazorzMcLazorz/WW1SimDataBase#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "ws": "^3.3.3"
+  }
+}
